@@ -1,0 +1,78 @@
+/* Footer.css */
+
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #f8f9fa;
+    color: #333;
+    
+  }
+  
+  .footer-divider {
+    margin-top: 0;
+    width: 100%;
+    border: 1px solid #ccc;
+  }
+  
+  .footer-section {
+    flex: 1;
+    margin: 10px;
+  }
+  
+  .footer-link {
+    text-decoration: none;
+    color: #333;
+    font-size: 14px;
+    margin-bottom: 5px;
+    display: block;
+  }
+  
+  .footer-link:hover {
+    color: #1D98AD;
+  }
+  
+  .social-icons {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .social-icon {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .contact-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .contact-icon {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .phone-number {
+    font-size: smaller;
+    margin-bottom: 12px;
+  }
+  
+  .payment-img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    padding: 15px;
+    background-color: #f8f9fa;
+    margin-top: 20px;
+  }
+  
+  .highlight {
+    color: #1D98AD;
+  }
+  

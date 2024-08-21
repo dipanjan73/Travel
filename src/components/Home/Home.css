@@ -1,0 +1,14 @@
+.hero-section {
+    background: url('./landingpage.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 100px 0;
+    color: #fff;
+  }
+  
+  .cta-section {
+    background-color: #007bff;
+    color: #fff;
+  }
+  .card{
+    height: 220px;
+  }

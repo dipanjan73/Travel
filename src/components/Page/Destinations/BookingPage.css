@@ -1,0 +1,46 @@
+/* BookingPage.css */
+
+/* Ensure the card image fills the card width */
+.card-img-top {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Style the container with padding and margin */
+  .container {
+    padding: 20px;
+  }
+  
+  /* Center the card and form within the container */
+  .card {
+    margin: 0 auto;
+    max-width: 600px;
+  }
+  
+  /* Make form elements full-width on smaller screens */
+  .form-control {
+    width: 100%;
+  }
+  
+  /* Add some margin between form elements */
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  /* Style the submit button */
+  .btn-primary {
+    width: 100%;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .container {
+      padding: 10px;
+    }
+  }
+  .booking-page-container {
+    margin-bottom: 100px; /* Adjust this value based on your footer height */
+  }
+  
+  
+  
